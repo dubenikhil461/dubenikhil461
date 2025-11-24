@@ -1,20 +1,17 @@
 <h1 align="center">👋 Hey, I'm Nikhil Dubey</h1>
-
 <p align="center">
-  <b>Software Developer | Backend Engineering | DSA | DevOps Learner | 5× Hackathons</b>
+  <b>Software Developer | Backend Engineering | DSA | DevOps Learner | 5X Hackathons</b>
 </p>
-
 <p align="center">
-  🚀 3 Months On-site Internship <b>@Madrecha</b>  
+  🚀 3 Months On-site Internship <b>@Madrecha</b><br>
   🎯 Final Round Participant at <b>National-Level Hackathons</b>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhildubey461/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://nikhildubey461.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-11111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -30,6 +27,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🛠️ Tech Stack
 
 ### **Backend & Databases**
@@ -40,7 +41,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Frontend & Apps**
-![Vue.js](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue 3](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **DevOps & Tools**
@@ -53,27 +54,28 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 🏆 Achievements & Hackathons
 
 ### 🏅 HackStorm 2025 — National Level (Jaipur)
 - Secured **17th position** — Top **21 out of 89+ teams**, scoring **21.5/30**  
-- Designed and built an innovative project under intense competition  
-
----
+- Built an innovative solution under intense competition  
 
 ### 🤖 AI Odyssey Hackathon — Final Stage
 - Reached the **final stages** with a strong AI-based solution  
 - Missed the **2nd position** by a very small margin  
-- Gained strong experience in AI problem-solving & teamwork  
-
----
+- Gained hands-on experience in AI problem-solving  
 
 ### 🇮🇳 Smart India Hackathon — Internal Round
-- Developed **AgriAI**, an AI-powered farming assistance platform  
+- Developed **AgriAI**, an AI-driven solution for farmers  
 - Selected for **internal round evaluation**  
-- 🔗 Live: https://agriai-ebon.vercel.app/  
+- 🔗 Live: https://agriai-ebon.vercel.app/
+
+</td>
+</tr>
+</table>
 
 ---
 
