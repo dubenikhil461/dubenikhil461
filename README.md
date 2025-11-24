@@ -1,24 +1,24 @@
 <h1 align="center">👋 Hey, I'm Nikhil Dubey</h1>
 
 <p align="center">
-  <b>Software Developer | Backend Engineering | DSA | Open Source Enthusiast</b>
+  <b>Software Developer | Backend Engineering | DSA | DevOps Learner</b>
 </p>
 
 <p align="center">
   🚀 3 Months On-site Internship @ <b>Madrecha Solutions</b>  
-  🎯 Selected for Internal Round of <b>Smart India Hackathon</b>  
-  ⚡ Building strong foundations in Backend + DevOps + DSA  
+  🎯 Final Round Participant at <b>National Hackathons</b>  
+  ⚡ Building strong foundations in Backend, DevOps & Problem Solving  
 </p>
 
 ---
 
 ## 🚀 About Me  
 - 🔥 Passionate about **Backend Development**, **API Design**, and **System Architecture**  
-- ⚡ Currently working with **Node.js**, **MongoDB**, **PostgreSQL**, **Redis**, **Socket.IO**  
-- 🧩 Learning and practicing **DSA daily**  
+- ⚡ Experienced with **Node.js**, **MongoDB**, **PostgreSQL**, **Redis**, **Socket.IO**  
+- 🧩 Consistently improving in **DSA**  
 - 📱 Exploring **Flutter** for cross-platform apps  
-- 🧠 Interested in **AI/ML when aligned with real use-cases**  
-- 🎯 Preparing for **GSoC** & future open-source contributions  
+- 🧪 Interested in AI/ML when solving real-world problems  
+- 🎯 Gearing up for **GSoC** and future open-source contributions  
 
 ---
 
@@ -47,11 +47,33 @@
 
 ---
 
+## 🏆 Achievements & Hackathons
+
+### 🏅 HackStorm 2025 — National Level (Jaipur)
+- Secured **17th position** — Top **21 out of 89 teams**, scoring **21.5/30 points**  
+- Built an innovative solution under intense competition  
+---
+
+### 🤖 AI Odyssey Hackathon — Final Stage
+- Reached the **final stages** with a strong AI solution  
+- Narrowly missed securing the **2nd spot by a small margin**  
+- Project stood out due to innovation, clarity, and impact  
+- Learned deep skills in teamwork, AI problem-solving, and rapid prototyping  
+- A huge motivation to perform even better in future hackathons  
+
+---
+
+### 🇮🇳 Smart India Hackathon (Internal Round)
+- Team-built AI-based **AgriAI** platform selected for **internal round evaluation**  
+- Real-world solution helping farmers with AI insights  
+
+---
+
 ## 📌 Featured Projects
 
 ### 🧠 **AgriAI — AI/ML Platform for Farmers**
 🔗 Live: https://agriai-ebon.vercel.app/  
-➡️ AI-powered platform helping farmers with predictions & recommendations.  
+AI-powered platform that helps farmers with predictions & recommendations.  
 
 ---
 
@@ -62,13 +84,13 @@ Real-time messaging using WebSockets.
 ---
 
 ### 📦 **Inventory / Dashboard System**
-Admin dashboard & visual analytics  
+Admin dashboard with analytics visualization  
 **Tech:** Vue 3, Recharts, Node.js, MongoDB
 
 ---
 
 ### ❓ **Flutter Quiz App**
-Beautiful UI, multi-screen navigation, smooth UX.  
+A beautiful multi-screen quiz application.  
 **Tech:** Flutter, Dart
 
 ---
