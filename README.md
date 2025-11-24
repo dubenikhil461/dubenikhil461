@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 3 Months On-site Internship @ <b>Madrecha Solutions</b>  
+  🚀 3 Months On-site Internship  <b>@madrecha</b>  
   🎯 Final Round Participant at <b>National Hackathons</b>  
   ⚡ Building strong foundations in Backend, DevOps & Problem Solving  
 </p>
