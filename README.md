@@ -18,12 +18,10 @@
 ---
 
 ## 🚀 About Me  
-- 🔥 Passionate about **Backend Development**, **API Design**, and **System Architecture**  
-- ⚡ Experienced in **Node.js**, **MongoDB**, **PostgreSQL**, **Redis**, **Socket.IO**  
-- 🧩 Consistently improving in **DSA**  
-- 📱 Exploring **Flutter** for app development  
-- 🧪 Interested in AI/ML for solving real-world problems  
-- 🎯 Preparing for **GSoC** & open-source contributions  
+
+I'm a backend-focused software developer with hands-on experience building scalable APIs and distributed systems. I work primarily with Node.js, Express, and databases like MongoDB, PostgreSQL, and Redis. My recent internship at Madrecha gave me real-world exposure to production systems and best practices.
+
+I enjoy solving algorithmic problems and regularly practice DSA to sharpen my problem-solving skills. Recently, I've been exploring Flutter for mobile development and experimenting with AI/ML to see how it can solve practical challenges. I'm also preparing for GSoC and looking to contribute more to open-source projects.  
 
 ---
 
