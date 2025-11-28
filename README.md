@@ -1,13 +1,15 @@
-<h1 align="center">👋 Hey, I'm Nikhil Dubey</h1>
-<p align="center">
-  <b>Software Developer | Backend Engineering | DSA | DevOps Learner | 5X Hackathons</b>
-</p>
-<p align="center">
-  🚀 3-Month On-site Internship (Completed) + 2-Month Ongoing @ <b>Madrecha</b><br>
-  🎯 Final Round Participant at <b>National-Level Hackathons</b>
-</p>
+<table>
+<tr>
+<td width="40%" valign="top">
 
-<p align="center">
+# 👋 Hey, I'm Nikhil Dubey
+
+**Software Developer | Backend Engineering | DSA | DevOps Learner | 5X Hackathons**
+
+3-Month On-site Internship (Completed) + 2-Month Ongoing @ **Madrecha**  
+🎯 Final Round Participant at **National-Level Hackathons**
+
+<p align="left">
   <a href="https://www.linkedin.com/in/nikhildubey461/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -16,13 +18,18 @@
   </a>
 </p>
 
----
+</td>
+<td width="60%" valign="top">
 
-## 🚀 About Me  
+## About Me
 
 I'm a backend-focused software developer with hands-on experience building scalable APIs and distributed systems. I work primarily with Node.js, Express, and databases like MongoDB, PostgreSQL, and Redis. My recent internship at Madrecha gave me real-world exposure to production systems and best practices.
 
-I enjoy solving algorithmic problems and regularly practice DSA to sharpen my problem-solving skills. Recently, I've been exploring Flutter for mobile development and experimenting with AI/ML to see how it can solve practical challenges. I'm also preparing for GSoC and looking to contribute more to open-source projects.  
+I enjoy solving algorithmic problems and regularly practice DSA to sharpen my problem-solving skills. Recently, I've been exploring Flutter for mobile development and experimenting with AI/ML to see how it can solve practical challenges. I'm also preparing for GSoC and looking to contribute more to open-source projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,7 +41,7 @@ I enjoy solving algorithmic problems and regularly practice DSA to sharpen my pr
 
 ### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
