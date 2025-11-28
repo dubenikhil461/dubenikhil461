@@ -3,9 +3,10 @@
   <b>Software Developer | Backend Engineering | DSA | DevOps Learner | 5X Hackathons</b>
 </p>
 <p align="center">
-  🚀 3 Months On-site Internship <b>@Madrecha</b><br>
+  🚀 3-Month On-site Internship (Completed) + 2-Month Ongoing @ <b>Madrecha</b><br>
   🎯 Final Round Participant at <b>National-Level Hackathons</b>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhildubey461/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
