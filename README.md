@@ -77,5 +77,3 @@ I enjoy solving algorithmic problems and regularly practice DSA to sharpen my pr
 </table>
 
 ---
-
-<p align="center"><b>⭐ Star my repositories if you like my work!</b></p>
