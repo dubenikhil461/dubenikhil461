@@ -20,7 +20,7 @@
 </p>
 
 </td>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ## About Me
 
