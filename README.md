@@ -1,5 +1,5 @@
 # 👋 Nikhil Dubey
-**Backend Engineer** • 5 Months Industry Experience @ **Madrecha** • 6× Hackathon Finalist • 🎯 **Top 21** @ HackStorm 2025
+**Backend Engineer** • 5(counting) Months Industry Experience @ **Madrecha** • 6× Hackathon Finalist • 🎯 **Top 21** @ HackStorm 2025
 
 Backend-focused developer specializing in scalable APIs and distributed systems. Experience with Node.js, Express, MongoDB, PostgreSQL, and Redis in production environments. Currently expanding expertise in **System Design** while actively practicing DSA.
 
