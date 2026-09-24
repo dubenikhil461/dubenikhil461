@@ -8,6 +8,3 @@ Backend-focused developer specializing in scalable APIs and distributed systems.
   <a href="https://nikhildubey461.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com" alt="dubenikhil461 profile views" />
-</p>
